@@ -1,2 +1,3 @@
 # hello-world
-just a simple project
+Hi,world
+This is my first to use this thing called github
